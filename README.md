@@ -26,7 +26,7 @@ My name is Rory Ulmer (he/him) and I'm from Vermont. I am currently a student at
 * Advanced Programming (C++)
 * Computability & Complexity
 
-# Contact Me!
+### Contact Me
 * Email: roryulmer@gmail.com
 <!--
 **rouloct/rouloct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
