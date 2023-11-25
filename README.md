@@ -22,7 +22,7 @@ My name is Rory Ulmer (he/him) and I'm from Vermont. I am currently a student at
 * Physics I
 
 ### Upcoming Coursework (Spring 2024)
-* Computer Organization (Assembely & Raspberry Pi)
+* Computer Organization (Assembly & Raspberry Pi)
 * Advanced Programming (C++)
 * Computability & Complexity
 
