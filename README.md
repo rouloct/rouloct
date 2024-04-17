@@ -1,30 +1,6 @@
 ### About Me
-Hi, my name is Rory Ulmer (he/him). I grew up here in Richmond, VT and am currently pursuing a B.S. in Mathematical Sciences at UVM (graduating fall '24). I will potentially be doing my M.S. in Computer Science here through the Accelerated Master's Program. I am a fast-learner who brings lots of enthusiasm towards the work I do. I love problem solving and creativity-- and programming allows me to solve problems in a creative way! I love how there are often many different solutions to the same problem and the "best" solution can vary greatly depending on your needs. As hobbies, I enjoy designing board games, writing songs on guitar, and playing table tennis for the team at UVM.
+Hi, my name is Rory Ulmer (he/him). I grew up here in Richmond, VT and am currently pursuing a B.S. in Mathematical Sciences at UVM (graduating fall '24). I will be doing my M.S. in Computer Science here through the Accelerated Master's Program. I am a fast-learner who brings lots of enthusiasm towards the work I do. I love problem solving and creativity-- and programming allows me to solve problems in a creative way! I love how there are often many different solutions to the same problem and the "best" solution can vary greatly depending on your needs. As hobbies, I enjoy designing board games, writing songs on guitar, and playing table tennis for the team at UVM.
 
-
-### Language Experience
-* Python (Strong)
-* JavaScript/TypeScript + React (Strong)
-* C# (Strong)
-* C++ (Moderate)
-* Java (Moderate)
-
-### Tool Experience
-* Unity 3D
-
-### Relevant Coursework
-* Intro/Intermediate Programming (Python & Java)
-* Data Structures & Algorithms
-* Fundamentals of Mathematics (Discrete Math)
-* Calculus I to III
-* Applied Linear Algebra
-* Intro to Numerical Analysis
-* Physics I
-
-### Upcoming Relevant Coursework (Spring 2024)
-* Computer Organization
-* Advanced Programming (C++)
-* Computability & Complexity
 
 ### Contact Me
 * Email: roryulmer@gmail.com
