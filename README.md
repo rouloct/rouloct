@@ -1,5 +1,5 @@
 ### About Me
-Hi, my name is Rory Ulmer (he/him). I grew up here in Richmond, VT and am currently pursuing a B.S. in Mathematical Sciences at UVM (graduating fall '24). I will be doing my M.S. in Computer Science here through the Accelerated Master's Program. I am a fast-learner who brings lots of enthusiasm towards the work I do. I love problem solving and creativity-- and programming allows me to solve problems in a creative way! I love how there are often many different solutions to the same problem and the "best" solution can vary greatly depending on your needs. As hobbies, I enjoy designing board games, writing songs on guitar, and playing table tennis for the team at UVM.
+Hi, I'm Rory! I grew up in Richmond, VT then moved to Waitsfield, and am currently pursuing a B.S. in Mathematical Sciences at UVM (graduating fall '24). I will be doing my M.S. in Computer Science at UVM through the Accelerated Master's Program. I'm a fast-learner who brings lots of enthusiasm towards the work I do. I love being creative and solving problems! As hobbies, I enjoy designing board games, writing songs on guitar, and playing table tennis for the team at UVM.
 
 
 ### Contact Me
