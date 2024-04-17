@@ -3,7 +3,7 @@ Hi, my name is Rory Ulmer (he/him). I grew up here in Richmond, VT and am curren
 
 
 ### Contact Me
-* Email: roryulmer@gmail.com
+Email: roryulmer@gmail.com
 <!--
 **rouloct/rouloct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
