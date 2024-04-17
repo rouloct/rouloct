@@ -8,7 +8,7 @@ Hi, I'm Rory! I grew up in Richmond, VT then moved to Waitsfield, and am current
 * Computability & Complexity
 * Computer Organization
 * Discrete Math
-* Calculus I/II/III
+* Calculus 1/2/3
 * Linear Algebra
 * Numerical Analysis
 * Real Analysis
